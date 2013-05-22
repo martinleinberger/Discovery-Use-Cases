@@ -1,0 +1,23 @@
+[
+    [
+        "http://localhost/services/discovery/contributions/strafunski/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/tabaluga/src/Main.hs"
+    ], 
+    [
+        "http://localhost/services/discovery/contributions/haskellEngineer/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/haskellRecord/src/Main.hs"
+    ], 
+    [
+        "http://localhost/services/discovery/contributions/nonmonadic/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/writerMonad/src/Main.hs"
+    ], 
+    [
+        "http://localhost/services/discovery/contributions/haskellLambda/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/haskellList/src/Main.hs"
+    ], 
+    [
+        "http://localhost/services/discovery/contributions/haskellComposition/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/haskellSyb/src/Main.hs", 
+        "http://localhost/services/discovery/contributions/haskellVariation/src/Main.hs"
+    ]
+]
