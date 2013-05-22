@@ -2,7 +2,6 @@ import urllib2
 import json
 import sys
 
-# Detect for all languages
 
 opener = urllib2.build_opener()
 
